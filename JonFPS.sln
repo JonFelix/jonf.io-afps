@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JOnFps.CSharp.Plugins", "JOnFps.CSharp.Plugins.csproj", "{9C7E65B6-DA2B-1934-552C-1B75ED29AE18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JOnFps.CSharp", "JOnFps.CSharp.csproj", "{A2CE4BA5-62CD-1876-7D75-F6E582623B08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C7E65B6-DA2B-1934-552C-1B75ED29AE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7E65B6-DA2B-1934-552C-1B75ED29AE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7E65B6-DA2B-1934-552C-1B75ED29AE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7E65B6-DA2B-1934-552C-1B75ED29AE18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2CE4BA5-62CD-1876-7D75-F6E582623B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2CE4BA5-62CD-1876-7D75-F6E582623B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2CE4BA5-62CD-1876-7D75-F6E582623B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2CE4BA5-62CD-1876-7D75-F6E582623B08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
